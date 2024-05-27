@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 1%;
+    padding-right: 1%;
+    gap: 15px;
+    height:350px;
+    background-color: rgb(56, 216, 237);
+    width: 50%;
+    margin-left: 25%;
+}
+.child{
+    height:100%;
+    width: 100%;
+    background-color: whitesmoke;
+}
+.a{
+    width: 5%;
+}
+.b{
+    width: 7%;
+}
+.c{
+    width: 14%;
+}
+.d{
+    width: 20%;
+}
+.e{
+    width: 33%;
+}
